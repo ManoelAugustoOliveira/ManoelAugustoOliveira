@@ -4,6 +4,8 @@
 
 Bem-vindo ao meu perfil do GitHub! 
 
+[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]
+
 ### 🌱 Interesses
 - Ciência de Dados
 - Análise de Dados
