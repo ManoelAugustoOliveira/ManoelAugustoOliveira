@@ -15,3 +15,5 @@ Bem-vindo ao meu perfil do GitHub!
 - Análise de Dados
 - Machine Learning
 - Visualização de Dados
+
+![Manoel GitHub stats](https://github-readme-stats.vercel.app/api?username=ManoelAugustoOliveira&show_icons=true&theme=dark)
