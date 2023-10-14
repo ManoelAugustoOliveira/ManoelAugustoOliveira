@@ -7,6 +7,7 @@ Bem-vindo ao meu perfil do GitHub!
 ### 📫 Como me encontrar
 
 [![Blog](https://img.shields.io/website?label=manoelaugustolima.com.br&style=for-the-badge&url=http://manoelaugustolima.com.br/)](http://manoelaugustolima.com.br)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoel-augusto-lima-oliveira-de-almeida-8762a5123)
 
 ### 🌱 Interesses
 - Ciência de Dados
