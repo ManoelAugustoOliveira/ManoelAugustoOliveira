@@ -1,11 +1,11 @@
-# Olá, eu sou Manoel! 👋
+# Olá, eu sou Manoel Augusto ! 👋
 
 👨‍💼 Analista de BI | 🎓 MBA em Cientista de Dados (em andamento)
 
-Bem-vindo ao meu perfil do GitHub! Sou apaixonado por dados, estratégias e inovação. Atualmente, estou explorando o vasto mundo da ciência de dados, transformando números em insights valiosos.
+Bem-vindo ao meu perfil do GitHub! 
 
 ### 💼 Experiência Profissional
-- Analista de BI na [Nome da Empresa]
+- Analista de BI na Ultraveloz Desenvolvimento de Sistemas
 
 ### 🌱 Interesses
 - Ciência de Dados
