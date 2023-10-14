@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá, eu sou Manoel! 👋
 
-<!--
-**ManoelAugustoOliveira/ManoelAugustoOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💼 Analista de BI | 🎓 MBA em Cientista de Dados (em andamento)
 
-Here are some ideas to get you started:
+Bem-vindo ao meu perfil do GitHub! Sou apaixonado por dados, estratégias e inovação. Atualmente, estou explorando o vasto mundo da ciência de dados, transformando números em insights valiosos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experiência Profissional
+- Analista de BI na [Nome da Empresa]
+
+### 🌱 Interesses
+- Ciência de Dados
+- Análise de Dados
+- Machine Learning
+- Visualização de Dados
+
+### 📫 Como me encontrar
+- [LinkedIn](seu-link-do-linkedin)
+- [Twitter](seu-link-do-twitter)
+
+Vamos conectar e criar coisas incríveis juntos! 🚀
