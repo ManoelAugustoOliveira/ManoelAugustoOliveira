@@ -1,10 +1,10 @@
 # Olá, eu sou Manoel Augusto ! 👋
 
+Bem-vindo ao meu perfil do GitHub! 
+
 👨‍💼 Analista de Business Intelligence
 🎓 Administrador (UFMT)
 🎓 MBA em Data Science e Analytics (USP/Esalq)
-
-Bem-vindo ao meu perfil do GitHub! 
 
 ### 📫 Como me encontrar
 
