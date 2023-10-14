@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub!
 
 ### 📫 Como me encontrar
 
-[![Blog](https://img.shields.io/badge/manoelaugustolima.com.br-000000?style=for-the-badge&logo=&logoColor=#127369)](manoelaugustolima.com.br)
+[![Blog](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=&logoColor=#127369)](manoelaugustolima.com.br)
 
 ### 🌱 Interesses
 - Ciência de Dados
