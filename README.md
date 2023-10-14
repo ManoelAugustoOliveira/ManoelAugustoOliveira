@@ -4,9 +4,6 @@
 
 Bem-vindo ao meu perfil do GitHub! 
 
-### 💼 Experiência Profissional
-- Analista de BI na Ultraveloz Desenvolvimento de Sistemas
-
 ### 🌱 Interesses
 - Ciência de Dados
 - Análise de Dados
