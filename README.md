@@ -4,7 +4,7 @@
 
 Bem-vindo ao meu perfil do GitHub! 
 
-![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
+[![Blog](https://img.shields.io/badge/manoelaugustolima.com.br-000000?style=for-the-badge&logo=About.me&logoColor=white)](manoelaugustolima.com.br)
 
 ### 🌱 Interesses
 - Ciência de Dados
