@@ -4,16 +4,12 @@
 
 Bem-vindo ao meu perfil do GitHub! 
 
-[![Blog](https://img.shields.io/badge/manoelaugustolima.com.br-000000?style=for-the-badge&logo=About.me&logoColor=white)](manoelaugustolima.com.br)
+### 📫 Como me encontrar
+
+[![Blog](https://img.shields.io/badge/manoelaugustolima.com.br-000000?style=for-the-badge&logo=&logoColor=#127369)](manoelaugustolima.com.br)
 
 ### 🌱 Interesses
 - Ciência de Dados
 - Análise de Dados
 - Machine Learning
 - Visualização de Dados
-
-### 📫 Como me encontrar
-- [LinkedIn](seu-link-do-linkedin)
-- [Twitter](seu-link-do-twitter)
-
-Vamos conectar e criar coisas incríveis juntos! 🚀
