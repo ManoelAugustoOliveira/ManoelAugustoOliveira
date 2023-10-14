@@ -1,6 +1,8 @@
 # Olá, eu sou Manoel Augusto ! 👋
 
-👨‍💼 Analista de BI | 🎓 MBA em Cientista de Dados (em andamento)
+👨‍💼 Analista de Business Intelligence
+🎓 Administrador (UFMT)
+🎓 MBA em Data Science e Analytics (USP/Esalq)
 
 Bem-vindo ao meu perfil do GitHub! 
 
